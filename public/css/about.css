@@ -1,0 +1,17 @@
+section{
+    display:flex;
+    justify-content: center;
+
+}
+img{
+    height: 200px;
+}
+
+
+div{
+    background-color: rgba(255, 255, 255, 0.527);
+    width: 60%;
+    font-size: 25px;
+    padding: 3rem;
+    border-radius: 20px;
+}

@@ -1,0 +1,35 @@
+body{
+    background-image: radial-gradient(circle, #a167fd, #8d54e4, #7942cb, #6530b3, #511d9b, #572c9c, #5c389d, #62449d, #836eb4, #a598c9, #c9c4dd, #f0f0f0);
+    display:flex;
+    flex-direction: column;
+    ;
+}
+#img-p{
+    align-self: center;
+    border-radius: 10px;
+    height:auto;
+    width:90vw;
+}
+
+nav{
+    border-radius: 10px;
+    background-color: #3aad94;
+    width: auto;
+    height: 100px;
+    font-size: 50px;
+
+    display:flex;
+    justify-content: center;
+}
+a{
+    border-radius: 5px;
+    text-decoration: none;
+    color:white;
+    margin:1rem;
+    border:2px solid  #572c9c;
+    padding:0 1rem;
+
+}
+h1{
+    text-align: center;
+}
